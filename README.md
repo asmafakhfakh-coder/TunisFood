@@ -4,4 +4,4 @@ Plateforme de commande de plats tunisiens – Projet AGL
 
 Les interfaces (Panier & Validation) sont disponibles ici :
 
-🔗 [Voir le design Figma](حhttps://www.figma.com/make/ZL1JiLG3JoU70FZsl08PIU/Redesign-Cart-and-Order-Screens?t=WSuMG87iUpgM8etK-20&fullscreen=1)
+🔗 [Voir le design Figma](https://www.figma.com/make/ZL1JiLG3JoU70FZsl08PIU/Redesign-Cart-and-Order-Screens?t=WSuMG87iUpgM8etK-1)
