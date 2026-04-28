@@ -43,4 +43,3 @@ public class Commande {
     public double getTotal() { return total; }
     public void setTotal(double total) { this.total = total; }
     public LocalDateTime getDate() { return date; }
-}
